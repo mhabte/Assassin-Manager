@@ -5,6 +5,6 @@ When someone is assassinated, the chain needs to be relinked by “skipping” t
 
 The AssassinManager class allows a user to play under these rules and allows them to get real time info on the status of the game using the methods provided.
 
-To test AssassinManager, download all three files, and run AssassinMain.java while both java files are in the same folder. You'll then be prompted to give a txt file with the names of the participants, type in either the names.txt provided, or a txt file with names of your choice. Afterwards, follow the instructions on the screen to play the game.
+To test AssassinManager, download all three files, and run AssassinMain.java in an appropriate IDE while both java files are in the same folder. You'll then be prompted to give a txt file with the names of the participants, type in either the names.txt provided, or a txt file with names of your choice. Afterwards, follow the instructions on the screen to play the game.
 
 NOTE: AssassinMain.java and names.txt are not my work and they're simply provided to provide viewers code and names to use to play the game.
